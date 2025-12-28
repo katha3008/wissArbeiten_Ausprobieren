@@ -3,3 +3,5 @@ ein Beispiel Repository für die Veranstaltung Wissenschaftliches Arbeiten an de
 
 
 dieses Repository enthaelt ein RSkript mit selbst-implementierten Funktionen zur diskreten Gleichverteilung
+
+Autoren: Katharina Hautzinger
